@@ -13,6 +13,8 @@ PocketMoney is a modern personal finance tracking application that helps users m
 
 - Secure Authentication: Protected user accounts using JWT authentication
 
+- Export Data: Click "Export" to download transaction data as Excel
+
 
 
 ## Installation
