@@ -2,7 +2,7 @@
 # PocketMoney - Personal Finance Tracker
 
 PocketMoney is a modern personal finance tracking application that helps users manage their transactions, accounts, and financial activities with ease. Built with React, it provides powerful tools for financial management.
-- Deployed at: https://gentle-begonia-e58384.netlify.app/sign-in
+- Deployed at: https://willowy-brioche-fea644.netlify.app/
 
 ## Features
 
